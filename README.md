@@ -96,7 +96,7 @@ GEN-AI powered healthcare application that assists doctors and patients with sym
 
 ---
 
-### 💬 [Real-Time Chat Application](link-to-source)
+### 💬 [Real-Time Chat Application](https://front-chat-production-e0ff.up.railway.app/)
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.io" />
