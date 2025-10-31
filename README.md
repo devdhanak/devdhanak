@@ -175,8 +175,8 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU) | *2025*
 ###
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdhanak&theme=dracula&hide_border=false" height="150" alt="streak graph" style="margin-bottom: 10px;" />
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdhanak&theme=dracula&hide_border=false" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=devdhanak&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
