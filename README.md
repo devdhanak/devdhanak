@@ -78,7 +78,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [Health-Care (AI-Powered)](link-to-livdemo)
+### 🏥 [Health-Care (AI-Powered)](https://moonlit-daffodil-b3863a.netlify.app/)
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
